@@ -1,3 +1,4 @@
+![1200x630wa](https://github.com/Fabio-Argona/DIO-Primeiro-Desafio/assets/128233610/8e79dcfd-989f-4553-9847-193df631274e)
 # DIO-Primeiro-Desafio
 ##Desafios Full Stack - JavaScript: Equilibrando o Saldo
 
